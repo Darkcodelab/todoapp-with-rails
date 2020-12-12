@@ -1,3 +1,3 @@
 # TodoApp With RubyOnRails
 
-![ScreenShot](railstodo.png)
+![ScreenShot](./railstodo.png)
